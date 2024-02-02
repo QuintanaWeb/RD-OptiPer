@@ -5,7 +5,7 @@
  * Update URI:        https://github.com/QuintanaWeb/RD-OptiPer
  * Plugin URI:        https://quintanaweb.com/plugin/
  * Description:       Este plugin, claramente sobrevalorado, no solo optimiza tu WordPress hasta hacerlo volar (casi literalmente), sino que también lo embellece hasta dejarlo irreconocible. ¿Mejorar rendimiento y estética al mismo tiempo? Exagerado, pero hey, aquí lo tienes. Úsalo, o no, y sigue siendo el héroe anónimo de tu sitio web.
- * Version:           1.1
+ * Version:           1.3
  * Requires at least: 6.0
  * Requires PHP:      7.4
  * Author:            QuintanaWeb
